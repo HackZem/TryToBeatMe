@@ -39,3 +39,7 @@ button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
+
+body {
+  background-color: #1c1c1a;
+}
